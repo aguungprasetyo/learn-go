@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func varWithValue() {
 
 	// declare inside function with value
 	var a int = 1

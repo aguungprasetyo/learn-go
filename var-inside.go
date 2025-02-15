@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func Inside() {
 
 	// declare inside function
 	var a int

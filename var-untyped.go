@@ -3,18 +3,18 @@ package main
 import "fmt"
 
 // untyped variable
-var a = 1
-var b = 3.16
-var c = "Hello, Ozone Digitech"
-var d = true
+var f = 1
+var g = 3.16
+var h = "Hello, Ozone Digitech"
+var i = true
 
-func main() {
+func untyped() {
 
-	e := 1 //this := sign only can use inside the function
+	j := 1 //this := sign only can use inside the function
 
-	fmt.Println(a)
-	fmt.Println(b)
-	fmt.Println(c)
-	fmt.Println(d)
-	fmt.Println(e)
+	fmt.Println(f)
+	fmt.Println(g)
+	fmt.Println(h)
+	fmt.Println(i)
+	fmt.Println(j)
 }

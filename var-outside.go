@@ -3,12 +3,12 @@ package main
 import "fmt"
 
 // declare inside function
-var a int
-var b float32
-var c string
-var d bool
+var a1 int
+var b1 float32
+var c1 string
+var d1 bool
 
-func main() {
+func outside() {
 
 	a = 1
 	b = 3.16
