@@ -2,13 +2,13 @@ package main
 
 import "fmt"
 
-// declare outsite function
-var a int
-var b float32
-var c string
-var d bool
-
 func main() {
+
+	// declare inside function
+	var a int
+	var b float32
+	var c string
+	var d bool
 
 	a = 1
 	b = 3.16
